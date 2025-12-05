@@ -87,7 +87,7 @@ I'm **Priyanshu Kumar**, a passionate and results-driven developer. I focus on b
 <div align="center">
 
 <img 
-  src="https://raw.githubusercontent.com/priyanshuk6395/priyanshuk6395/output/github-contribution-grid-snake-dark.svg" 
+  src="https://github.com/priyanshuk6395/priyanshuk6395/blob/main/output/github-contribution-grid-snake-dark.svg" 
   alt="Snake animation showing GitHub contributions"
 />
 
