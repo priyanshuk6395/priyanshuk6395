@@ -23,7 +23,7 @@ I'm **Priyanshu Kumar**, a passionate and results-driven developer. I focus on b
 
 ---
 
-## 🛠️ Tech Stack & Tools (neon grouped badges)
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -101,8 +101,7 @@ I'm **Priyanshu Kumar**, a passionate and results-driven developer. I focus on b
 
 **Blockchain Based Evidence Management Intern — IIT Patna (2024–2025)**  
 - Designed tamper-proof evidence management system using blockchain.  
-- Implemented secure smart contracts for audit trails and chain-of-custody verification.  
-- Architected deployment-ready systems aligning with legal standards.
+- Designed secure smart contracts for audit trails and chain-of-custody verification.  
 
 ---
 
