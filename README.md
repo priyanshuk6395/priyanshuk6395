@@ -19,7 +19,7 @@ Focused on React.js frontends, Node.js/Express backends, AI integrations, and ro
 ---
 
 ## 🔭 About Me
-I'm **Priyanshu Kumar**, a passionate and results-driven developer. I focus on building robust, scalable, and secure applications — often MERN-adjacent — and I apply Python and SQL where data or AI capabilities are required (self-rated **7/10** each). I’m especially interested in developer tooling, cloud-native deployments, and trustworthy AI systems.
+I'm **Priyanshu Kumar**, a passionate and results-driven developer. I focus on building robust, scalable, and secure applications — often MERN-adjacent. I’m especially interested in developer tooling, cloud-native deployments, and trustworthy AI systems.
 
 ---
 
@@ -30,11 +30,7 @@ I'm **Priyanshu Kumar**, a passionate and results-driven developer. I focus on b
 **Languages**  
 <br/>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 <br/><br/>
 
